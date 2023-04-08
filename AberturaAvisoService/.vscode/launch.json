@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AberturasinistroApplication<aberturasinistro>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aberturaavisoservice.aberturasinistro.AberturasinistroApplication",
+            "projectName": "aberturasinistro",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
